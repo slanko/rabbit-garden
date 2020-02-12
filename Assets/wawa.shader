@@ -152,7 +152,7 @@ Shader "wawa"
 }
 /*ASEBEGIN
 Version=16700
-297;402;1297;1131;28.24162;245.9684;1.14083;True;False
+7;1;1602;1030;1973.358;1272.799;3.163678;True;True
 Node;AmplifyShaderEditor.FresnelNode;10;-378.593,-193.9521;Float;False;Standard;WorldNormal;LightDir;True;5;0;FLOAT3;0,0,1;False;4;FLOAT3;0,0,0;False;1;FLOAT;0;False;2;FLOAT;1;False;3;FLOAT;5;False;1;FLOAT;0
 Node;AmplifyShaderEditor.FresnelNode;18;-423.4616,-727.6691;Float;False;Standard;WorldNormal;LightDir;True;5;0;FLOAT3;0,0,1;False;4;FLOAT3;0,0,0;False;1;FLOAT;0;False;2;FLOAT;1;False;3;FLOAT;5;False;1;FLOAT;0
 Node;AmplifyShaderEditor.ColorNode;17;-117.1895,68.60684;Float;False;Constant;_Color2;Color 2;0;1;[HDR];Create;True;0;0;False;0;1.417281,1.417281,1.417281,0;0,0,0,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
@@ -185,4 +185,4 @@ WireConnection;26;0;24;0
 WireConnection;26;1;25;0
 WireConnection;9;13;26;0
 ASEEND*/
-//CHKSM=90BFC02C2929A2546DB28C29F99AFCABC16441D3
+//CHKSM=810A29E717EBE8FF59051012A19B4B70489817B9
